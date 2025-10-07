@@ -6,4 +6,5 @@
  <img style="width:49%;" src="https://raw.githubusercontent.com/TheGrinch00/github-stats-transparent/output/generated/languages.svg">
  <img style="width:49%;" src="https://raw.githubusercontent.com/TheGrinch00/github-stats-transparent/output/generated/overview.svg">
 </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheGrinch00&theme=radical" alt="GitHub Streak" /></a>
 <h2><u></u></h2>
